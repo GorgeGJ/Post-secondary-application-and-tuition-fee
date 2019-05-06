@@ -17,4 +17,4 @@ Also, it includes several university charateristics: graduation rate, enrollment
 
 https://data-planet.libguides.com/education 
 This website provides statistics on number of applications received, number of staff (faculty and administrative)
-and also tuition fee.
+and also tuition fee. The public Dataset is from IPEDS(The Integrated Postsecondary Education Data System).
