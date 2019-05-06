@@ -17,4 +17,5 @@ Also, it includes several university charateristics: graduation rate, enrollment
 
 https://data-planet.libguides.com/education 
 This website provides statistics on number of applications received, number of staff (faculty and administrative)
-and also tuition fee. The public Dataset is from IPEDS(The Integrated Postsecondary Education Data System).
+and also tuition fee. The public dataset is from IPEDS(The Integrated Postsecondary Education Data System).
+Delta.public is a handy IPEDS dataset firstly analysed by DELTA COST PROJECT. The data is not first handed, but it is well formated.
