@@ -2,6 +2,8 @@
 
 Under the market mechanism, it is obvious that price and quantity depend on each other. First, I am trying to find whether it is also true in the education market where the application number seems has no influence on university tuition, especially for top universities. In this project, the outcome being a statistical confirmation that suggests a 1% increase in application number would unjustifiably result in a 0.28% increase in tuition fees.
 
+The final project report is named "Does The Number of College Applications Affect U.S Tuition?"
+
 # Methodology
 
 Similar to the demand and supply mechanism, I applied simultaneous equations to solve endogeneity. In the education market, the number of applications is quantity, and tuition is price. Applicants demand a college education, and colleges set the price (tuition fee). Hence, the demand side focuses on the number of applications, where the supply side is based on the tuition fee. The number of application and tuition fee are jointly determined, where they are in no way exogenous to each other. Therefore, we instinctively apply Simultaneous Equations Model (SEM).
