@@ -8,9 +8,13 @@ The final project report is named "Does The Number of College Applications Affec
 
 Similar to the demand and supply mechanism, I applied simultaneous equations to solve endogeneity. In the education market, the number of applications is quantity, and tuition is price. Applicants demand a college education, and colleges set the price (tuition fee). Hence, the demand side focuses on the number of applications, where the supply side is based on the tuition fee. The number of application and tuition fee are jointly determined, where they are in no way exogenous to each other. Therefore, we instinctively apply Simultaneous Equations Model (SEM).
 
-Equation(1):
+Eq (1):
+log(Tuition3) = α0 +α1log(Applcn)+α2log(Stufacr)+α3public+α4Locale+α5tier
 
-log(Tuition3)=\alpha
+Eq (2):
+log(Applcn) = λ0 +λ1log(Tuition3)+λ2log(Stufacr)+λ3log(k mean)+λ4Locale+λ5tier
+
+Eq(1) is supply equation and Eq(2) is demand equation.
 
 
 # Data Source:
