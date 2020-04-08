@@ -4,13 +4,17 @@ Under the market mechanism, it is obvious that price and quantity depend on each
 
 # Methodology
 
-Similar to the demand and supply mechanism, I applied simultaneous equations to solve endogeneity, In the education market, the number of applications is quantity, and tuition is price. Applicants demand a college education, and colleges set the price (tuition fee). Hence, the demand side focuses on the number of applications, where the supply side is based on the tuition fee. The number of application and tuition fee are jointly determined, where they are in no way exogenous to each other. Therefore, we instinctively apply Simultaneous Equations Model (SEM).
+Similar to the demand and supply mechanism, I applied simultaneous equations to solve endogeneity. In the education market, the number of applications is quantity, and tuition is price. Applicants demand a college education, and colleges set the price (tuition fee). Hence, the demand side focuses on the number of applications, where the supply side is based on the tuition fee. The number of application and tuition fee are jointly determined, where they are in no way exogenous to each other. Therefore, we instinctively apply Simultaneous Equations Model (SEM).
 
 # Data Source:
 
 http://www.equality-of-opportunity.org/data/index.html#college This website includes cross-sectional statistics of average graduates income from every university, which is an important instrumental variable. Also, it includes several university characteristics: graduation rate, enrollment, rejection rate etc..
 
 https://data-planet.libguides.com/education This website provides statistics on the number of applications received, number of staff (faculty and administrative) and also tuition fee. The public dataset is from IPEDS(The Integrated Postsecondary Education Data System). Delta.public is a handy IPEDS dataset firstly analyzed by DELTA COST PROJECT. The data is not first handed, but it is well formatted.
+
+# Empirical Results:
+
+According to the SEM results, the number of applications received, a factor that does not contribute directly to education quality, does positively impact tuition cost. With the parameter of 0.28, roughly a 3.5% increase in application numbers will result in a 1% increase in tuition on average. Another notable finding is that prestigiousness (ranking), graduates future income, and location only affect tuition costs positively through the application quantity channel, in an indirect way. In other words, schools may not set tuition fees based on these factors, yet applicants really take them into consideration.
 
 # Reference:
 1. Archibald R., F. D. (2016). Why does college cost so much? In E. M. Airoldi, D. Blei, E. Erosheva, and S. E. Fienberg (Eds.), Why Does College Cost So Much? Oxford University Press.
