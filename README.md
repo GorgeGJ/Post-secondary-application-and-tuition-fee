@@ -1,6 +1,6 @@
 # Post-secondary-application-and-tuition-fee
 
-Under the market mechanism, it is obvious that price and quantity depend on each other. First, I am trying to find whether it is also true in the education market where the application number seems has no influence on university tuition, especially for top universities.
+Under the market mechanism, it is obvious that price and quantity depend on each other. First, I am trying to find whether it is also true in the education market where the application number seems has no influence on university tuition, especially for top universities. In this project, the outcome being a statistical confirmation that suggests a 1% increase in application number would unjustifiably result in a 0.28% increase in tuition fees.
 
 # Methodology
 
