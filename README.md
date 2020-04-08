@@ -27,10 +27,10 @@ According to the SEM results, the number of applications received, a factor that
 | log(Tuition3) |               | -6.932*** |
 | log(Applcn)   | 0.281***      |           |
 | log(Stufacr)  | -0.4769***    |  1.00***  |
-| public | 
-| k_mean |
-| Locale |
-| tier   |
+| public | -0.678***||
+| k_mean ||2.040***|
+| Locale |0.00248|-0.0179***|
+| tier   |-0.011|-0.222***|
 
 # Reference:
 1. Archibald R., F. D. (2016). Why does college cost so much? In E. M. Airoldi, D. Blei, E. Erosheva, and S. E. Fienberg (Eds.), Why Does College Cost So Much? Oxford University Press.
