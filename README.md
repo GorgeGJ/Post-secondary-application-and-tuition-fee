@@ -22,7 +22,11 @@ This website provides statistics on the number of applications received, number 
 
 According to the SEM results, the number of applications received, a factor that does not contribute directly to education quality, does positively impact tuition cost. With the parameter of 0.28, roughly a 3.5% increase in application numbers will result in a 1% increase in tuition on average. Another notable finding is that prestigiousness (ranking), graduates future income, and location only affect tuition costs positively through the application quantity channel, in an indirect way. In other words, schools may not set tuition fees based on these factors, yet applicants really take them into consideration.
 
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 # Reference:
 1. Archibald R., F. D. (2016). Why does college cost so much? In E. M. Airoldi, D. Blei, E. Erosheva, and S. E. Fienberg (Eds.), Why Does College Cost So Much? Oxford University Press.
